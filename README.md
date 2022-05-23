@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Negraqui
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning PHP 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter username: FullyNegraQui
 
 <!---
