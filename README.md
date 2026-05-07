@@ -88,6 +88,6 @@
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Negraqui&color=58a6ff&style=flat-square)
 
 </div>
